@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isabelesb.
 - 👀 I’m interested in learning and collaborating on data science projects.
-- 🌱 I’m currently learning python, sql, data analysis, machine learning.
+- 🌱 I’m currently learning python, sql, pyspark, data analysis, machine learning.
 - 💞️ I’m looking to collaborate on rated projects.
 - 📫 How to reach me: isabelesalvadorbarbosa@gmail.com or https://www.linkedin.com/in/isabele-salvador-barbosa.
 - 😄 Pronouns: she/her.
