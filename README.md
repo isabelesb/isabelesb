@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isabelesb.
+- 👋 Hi, I’m Isabele.
 - 👀 I’m interested in learning and collaborating on data science projects.
 - 🌱 I’m currently learning python, sql, pyspark, data analysis, machine learning.
 - 💞️ I’m looking to collaborate on rated projects.
