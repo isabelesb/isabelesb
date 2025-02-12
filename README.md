@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Isabele.
-- 👀 I’m interested in learning and collaborating on data science projects.
-- 🌱 I’m currently learning python, sql, pyspark, data analysis, machine learning.
-- 💞️ I’m looking to collaborate on rated projects.
-- 📫 How to reach me: isabelesalvadorbarbosa@gmail.com or https://www.linkedin.com/in/isabele-salvador-barbosa.
-- 😄 Pronouns: she/her.
-- ⚡ Fun fact: i love anime, Disney princesses and heroes with the same intensity!
+- 👋 Olá, eu sou a Isabele.
+- 👀 Meu objetivo é aprender e colaborar com projetos de Ciência de Dados.
+- 🌱 Atualmente estou aprimorando meus conhecimentos em python, sql, pyspark, data analysis e machine learning.
+- 📫 Como me encontrar: isabelesalvadorbarbosa@gmail.com ou https://www.linkedin.com/in/isabele-salvador-barbosa.
+- ⚡ Curiosidade: Eu amo animes, princesas da Duisney e super-heróis (e ainti-heróis) com a mesma intensidade!
 
 <!---
 isabelesb/isabelesb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
